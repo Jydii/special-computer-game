@@ -1,4 +1,4 @@
-# special-computer-game
+# Special Computer Game - 'Rock, Paper, Scissors, Lizard and Spock'
 
 This game is played between a human player and a computer. It is explained here - https://youtu.be/Kov2G0GouBw in one of the episodes of the television series "The Big Bang Theory".
 
